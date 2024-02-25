@@ -6,7 +6,8 @@ We created a custom dataset of 1000 images which classified the images into 3 cl
 After the preprocessing steps, the CNN model was trained to extract features from the images. 
 We also tried using the pre-trained VGG-16 model, however a better accuracy was acheived on the CNN model.
 A flow of the project:
-![image](https://github.com/ankitd29/Attendance-tracker/assets/136194305/450248fc-994c-4f4e-8e22-48bf2d156202)
+![image](https://github.com/ankitd29/Attendance-tracker/assets/136194305/43eb7fc6-40f7-4bc5-a921-a286aa2581c6)
+
 
 ## Model Results
 
