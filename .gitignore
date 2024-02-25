@@ -1,0 +1,8 @@
+#Ignore compiled python files
+*.pyc
+
+#Ignore the database files
+db.sqlite3
+
+#Ignore local development settings
+Django_Backend/FaceDetection/settings.py
