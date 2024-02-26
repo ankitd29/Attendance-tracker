@@ -1,1 +1,4 @@
-
+1. dataset_creation.py
+ - For creating a custom dataset. Enter the number of images you wish to capture. Enter folder name for saving the images.
+ - Images will be stored in a folder in the same directory.
+ - Images will be clicked via the webcam on your device.  
