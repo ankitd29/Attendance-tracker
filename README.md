@@ -17,5 +17,5 @@ The model gave a training accuracy of 97% and a validation accuracy of 89 %
 
 ## References
 
-[An approach for Face Detection and Face Recognition using OpenCV and Face Recognition Libraries in Python](https://ieeexplore.ieee.org/document/10113066)
+[An approach for Face Detection and Face Recognition using OpenCV and Face Recognition Libraries in Python](https://ieeexplore.ieee.org/document/10113066)  
 [A New Deep Neural Architecture Search Pipeline for Face Recognition](https://ieeexplore.ieee.org/document/9091879)
