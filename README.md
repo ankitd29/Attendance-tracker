@@ -4,7 +4,7 @@ This repositry contains an attendance tracking system which tracks faces and mar
 We have tried and used various implementations such as the face-recognition library, CNN implementation and VGG-16 models to obtain results.
 We created a custom dataset of 1000 images which classified the images into 3 classes. After the image acquisiton process, the images were segmented to detect just the faces and then enhanced using haarcascade technique. 
 After the preprocessing steps, the CNN model was trained to extract features from the images. 
-We also tried using the pre-trained VGG-16 model, however a better accuracy was acheived on the CNN model.
+We also tried using the pre-trained VGG-16 model, however a better accuracy was acheived on the CNN model.  
 A flow of the project:
 ![image](https://github.com/ankitd29/Attendance-tracker/assets/136194305/43eb7fc6-40f7-4bc5-a921-a286aa2581c6)
 
