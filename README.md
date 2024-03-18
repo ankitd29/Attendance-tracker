@@ -14,3 +14,8 @@ A flow of the project:
 The model gave a training accuracy of 97% and a validation accuracy of 89 %
 ![image](https://github.com/ankitd29/Attendance-tracker/assets/136194305/6bd9f3cd-fac9-46eb-8a8b-975ddf0599df)
 ![image](https://github.com/ankitd29/Attendance-tracker/assets/136194305/b505c37b-726b-460b-8fab-8f57d09614d4)
+
+## References
+
+[An approach for Face Detection and Face Recognition using OpenCV and Face Recognition Libraries in Python](https://ieeexplore.ieee.org/document/10113066)
+[A New Deep Neural Architecture Search Pipeline for Face Recognition](https://ieeexplore.ieee.org/document/9091879)
